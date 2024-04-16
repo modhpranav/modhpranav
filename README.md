@@ -2,7 +2,7 @@
 
 🎓 Currently pursuing a Master of Science in Computer Science from the University of Massachusetts, expecting graduation in May 2024.
 
-🤝 Working on exciting personal project of revolutionizing job seeking experience with lot more to come. (Initial Release - [Check it out](http://13.233.142.200/))
+🤝 Working on exciting personal project of revolutionizing job seeking experience with lot more to come. (Initial Release - [Check it out](https://resumeparser.modhpranav.com/))
 
 💼 Over Three years of professional experience in Python frameworks, Java (SpringBoot), data engineering, and DevOps.
 
@@ -12,7 +12,7 @@
 
 💬 Buzz me when thinking about exciting data projects, pipeline building or anything you want to catch up.
 
-📧 Reach me at: modhpranav21@gmail.com
+📧 Reach me at: modhpranav21@gmail.com | [modhpranav.com](https://www.modhpranav.com)
 
 ###
 
@@ -96,6 +96,11 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=modhpranav.modhpranav&left_text=Views"  />
 </div>
+
+## Data Analysis Projects:
+- [Annual Pay vs Rating of Professors at UMB](https://modhpranav.github.io/UmassBostonSalaryRatingsAnalysis/): Understanding relation between salary and professor rating on Rate my Professor of different departments at Umass Boston.
+- [Rainfall In Boston](https://boston-rain-fall-analysis.vercel.app/): From Year 2010 till 2018 how was rainfall in different areas of Boston.
+- [Covid 19 vs AQI Indices](https://docs.google.com/document/d/e/2PACX-1vR05QRczszrDYV8pMOwbA1BF1yEdaXhPcjqj20wfkwEjQKqqmxRaatfgUJ_66LBWNjztyjRNhEShtzC/pub): Understanding impact of Air Quality on covid cases and its spread.
 
 ## Ongoing Projects:
 - [Extension for Skill identifier](https://github.com/modhpranav/skills-highlighter-extension): Get to Know matching skills from your resume and job description.
