@@ -12,7 +12,7 @@
 
 💬 Buzz me when thinking about exciting data projects, pipeline building or anything you want to catch up.
 
-📧 Reach me at: modhpranav21@gmail.com | [modhpranav.com](https://www.modhpranav.com)
+📧 Reach me at: hello@modhpranav.com | [modhpranav.com](https://www.modhpranav.com)
 
 ###
 
@@ -102,6 +102,7 @@
 - [Rainfall In Boston](https://boston-rain-fall-analysis.vercel.app/): From Year 2010 till 2018 how was rainfall in different areas of Boston.
 - [Covid 19 vs AQI Indices](https://docs.google.com/document/d/e/2PACX-1vR05QRczszrDYV8pMOwbA1BF1yEdaXhPcjqj20wfkwEjQKqqmxRaatfgUJ_66LBWNjztyjRNhEShtzC/pub): Understanding impact of Air Quality on covid cases and its spread.
 - [Coach vs Faculty Salaries at UMass](https://lookerstudio.google.com/s/iSpcXwAfFOE): A Looker Report for analysing salary distribution of sports coach and Faculties at State Universities of Massachusetts.
+- [Reddit Data Pipeline](https://github.com/modhpranav/reddit-data-pipeline?tab=readme-ov-file#data-pipeline): Data pipeline using Reddit API, Airflow, S3, Redshift, DBT and finally PowerBI for creating visual dashboard. 
 
 ## Ongoing Projects:
 - [Extension for Skill identifier](https://github.com/modhpranav/skills-highlighter-extension): Get to Know matching skills from your resume and job description.
