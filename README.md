@@ -1,14 +1,10 @@
 ### Hi there! 👋
 
-🎓 Currently pursuing a Master of Science in Computer Science from the University of Massachusetts, expecting graduation in May 2024.
-
 🤝 Working on exciting personal project of revolutionizing job seeking experience with lot more to come. (Initial Release - [Check it out](https://resumeparser.modhpranav.com/))
 
-💼 Over Three years of professional experience in Python frameworks, Java (SpringBoot), data engineering, and DevOps.
+💼 Over Four years of professional experience in Python frameworks, Java (SpringBoot), data engineering, and DevOps.
 
 🤝 Interested in collaborating on end-to-end Data Engineering projects, from inception to deployment.
-
-🔍 Actively seeking Full-time Job opportunities in United States.
 
 💬 Buzz me when thinking about exciting data projects, pipeline building or anything you want to catch up.
 
