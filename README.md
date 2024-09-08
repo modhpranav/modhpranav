@@ -94,6 +94,7 @@
 </div>
 
 ## Data Analysis Projects:
+- [Boston Logan International Airport Covid Impact](https://boston-logan-airport-analysis.vercel.app/): Understand how Boston airport was impacted and its growth over the years.
 - [Annual Pay vs Rating of Professors at UMB](https://modhpranav.github.io/UmassBostonSalaryRatingsAnalysis/): Understanding relation between salary and professor rating on Rate my Professor of different departments at Umass Boston.
 - [Rainfall In Boston](https://boston-rain-fall-analysis.vercel.app/): From Year 2010 till 2018 how was rainfall in different areas of Boston.
 - [Covid 19 vs AQI Indices](https://docs.google.com/document/d/e/2PACX-1vR05QRczszrDYV8pMOwbA1BF1yEdaXhPcjqj20wfkwEjQKqqmxRaatfgUJ_66LBWNjztyjRNhEShtzC/pub): Understanding impact of Air Quality on covid cases and its spread.
