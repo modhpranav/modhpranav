@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-🤝 Working on exciting personal project of revolutionizing job seeking experience with lot more to come. (Initial Release - [Check it out](https://resumeparser.modhpranav.com/))
+🤝 Working on exciting project on optimizing supply chain of industrial materials using Palantir's Foundry.
 
-💼 Over Four years of professional experience in Python frameworks, Java (SpringBoot), data engineering, and DevOps.
+💼 Over Six years of varied professional experience: Data Tools, Palantir Foundry, Python frameworks, and DevOps.
 
 🤝 Interested in collaborating on end-to-end Data Engineering projects, from inception to deployment.
 
